@@ -1,5 +1,5 @@
 #!/bin/sh
-#set -x
+
 echo "enter a number"
 read a
 if [ $a -gt 50 ]
